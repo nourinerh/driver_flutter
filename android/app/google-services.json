@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "468659991250",
+    "project_id": "uber-tunisie-371fc",
+    "storage_bucket": "uber-tunisie-371fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468659991250:android:2ab5d969f97b7babf0f30b",
+        "android_client_info": {
+          "package_name": "com.nourine.driversapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468659991250-76vput1mkbgmn83n8dvch98rnc0j1dgu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nourine.driversapp",
+            "certificate_hash": "86ddd713c434082a1a0e6412b3529b63308e6559"
+          }
+        },
+        {
+          "client_id": "468659991250-lhlpgk6d8ja5vqh5c0leep5mum5to08f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6DcGYomjjkO5yP5izM37uBaVGiU1msvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468659991250-lhlpgk6d8ja5vqh5c0leep5mum5to08f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "468659991250-082rmmq81vht4p3qkj0qko4jngnsifck.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.driver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
